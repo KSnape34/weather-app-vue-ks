@@ -1,35 +1,40 @@
-# weather-app-vue-ks
+# Weather App | Vue 3 + Vite 3
 
-This template should help get you started developing with Vue 3 in Vite.
+## Table of contents
 
-## Recommended IDE Setup
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Overview
 
-## Customize configuration
+### Screenshot
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![](./screenshot.jpg)
 
-## Project Setup
+### Links
 
-```sh
-npm install
-```
+- Live Site URL: [Newsletter](https://ksnape34.github.io/Newsletter-with-Success-Message/)
 
-### Compile and Hot-Reload for Development
+## My process
 
-```sh
-npm run dev
-```
+### Built with
 
-### Compile and Minify for Production
+- Vue.js
+- Vite
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- JavaScript
+- CSS Grid
+- Mobile-first workflow
 
-```sh
-npm run build
-```
+## Author
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Website - [Katie Snape](https://ksnape34.github.io/Portfolio/)
+- Frontend Mentor - [@KSnape34](https://www.frontendmentor.io/profile/KSnape34)
+- Twitter - [@KSnape34](https://github.com/KSnape34)
