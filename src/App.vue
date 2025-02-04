@@ -24,6 +24,11 @@
       </div>
     </main>
   </div>
+  <div class="attribution">
+    Challenge by
+    <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded
+    by <a href="https://ksnape34.github.io/Portfolio/">Katie Snape</a>.
+  </div>
 </template>
 
 <script>
@@ -178,5 +183,21 @@ main {
   font-weight: 700;
   font-style: italic;
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
+}
+
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  background-color: rgb(1, 186, 170);
+  color: #fff;
+}
+.attribution a {
+  color: hsl(273, 100%, 49%);
+  font-weight: bold;
+  transition: 0.4s;
+}
+
+.attribution a:hover {
+  color: hsl(311, 100%, 49%);
 }
 </style>
