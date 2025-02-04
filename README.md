@@ -14,11 +14,12 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/assets/Weather%20App.png)
 
 ### Links
 
-- Live Site URL: [Newsletter](https://ksnape34.github.io/Newsletter-with-Success-Message/)
+- Live Site URL: [Weather App](https://weather-app-vue-ks.netlify.app/)
+- Solution URL: [Weather App](https://github.com/KSnape34/weather-app-vue-ks)
 
 ## My process
 
