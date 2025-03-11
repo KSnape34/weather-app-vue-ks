@@ -34,6 +34,8 @@
 - CSS Grid
 - Mobile-first workflow
 
+- [OpenWeather API] (https://openweathermap.org/api)
+
 ## Author
 
 - Website - [Katie Snape](https://ksnape34.github.io/Portfolio/)
